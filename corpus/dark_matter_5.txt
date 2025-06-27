@@ -1,0 +1,17 @@
+Based on physicists’ measurements, most of the mass in the universe is actually taken up by dark matter. Whatever this stuff is, we can see its effects on the behavior of distant galaxies, though no experiment has detected it here on Earth. Doing so probably requires knowing how fast it moves.
+
+That’s a puzzle that a team of researchers are working the solve. They began with a simulation of the Milky Way, trying to understand the distributions of dark matter speeds in the galaxy—almost like a survey of how fast every car is going on a highway. They’ve also gotten some initial results, using their model and data from the first release of data from the European Space Agency’s Gaia spacecraft, launched in 2013 with the goal of mapping the galaxy.
+
+Knowing how fast dark matter moves can be important for decoding the data from experiments that are trying to spot the stuff here on Earth. If the velocities are different from physicists’ basic assumptions, it might affect the theories that physicists use to understand the dark matter.
+
+It turns out that there might be a way to measure the speed of dark matter, the scientists write in a paper published recently in Physical Review Letters. It’s just a matter of looking at right kinds of stars. Basically, if the Universe acts the way they think it does, then the dark matter should act similarly to old stars (like, 10 billion years old) since they’ve both been around for a really long time in the galaxy, interacting mostly via the force of gravity. The stars can simply be used as proxies for the dark matter’s speed.
+
+Picking out these stars would require spotting those relatively lower in certain heavier elements like iron—a sign that they have been around since the Milky Way tore apart some dwarf galaxies while they were at the height of their star-making.
+
+The researchers first used one of the best Milky Way simulators, Eris, to see how well the movement of these “metal-poor halo stars” could correspond to dark matter. Eris attempts to model the interactions inside a huge virtual universe; Eris’ Milky Way is similarly disk-shaped, rotating, gravitationally bound, and composed of stars, interstellar gas, and dark matter. The researchers watched how both the dark matter and the stars in their model galaxy evolved over time. Judging by their similarities in the model, they believe that the two are similar enough that old stars could make a good dark matter proxy. They published those results in Physical Review Letters.
+
+Basically, they thought the dark matter and the old stars had a similar enough origin and distribution that the thing we can see—old stars—could stand in for the thing we can’t. Modeling offered further evidence.
+
+More recently, they applied that work to data from Gaia in a new paper. The researchers feel they show “the dark matter velocities may be slower than typically assumed.”
+
+It’s still early times for the Gaia data, and a lot of this work is based on modeling and assumptions. As Louis Strigari from Texas A&M University writes for Physics:

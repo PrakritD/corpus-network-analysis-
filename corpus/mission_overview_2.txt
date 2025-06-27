@@ -1,0 +1,49 @@
+Kepler
+The centuries-old quest for other worlds like our Earth has been rejuvenated by the intense excitement and popular interest surrounding the discovery of hundreds of planets orbiting other stars. There is now clear evidence for substantial numbers of three types of exoplanets; gas giants, hot-super-Earths in short period orbits, and ice giants. The challenge now is to find terrestrial planets (i.e., those one half to twice the size of the Earth), especially those in the habitable zone of their stars where liquid water might exist on the surface of the planet.
+
+The Kepler Mission is specifically designed to survey our region of the Milky Way galaxy to discover hundreds of Earth-size and smaller planets in or near the habitable zone and determine the fraction of the hundreds of billions of stars in our galaxy that might have such planets.
+
+The Transit Method of Detecting Extrasolar Planets
+When a planet crosses in front of its star as viewed by an observer, the event is called a transit. Transits by terrestrial planets produce a small change in a star's brightness of about 1/10,000 (100 parts per million, ppm), lasting for 2 to 16 hours.
+Credits: NASA Ames
+Kepler Science
+The scientific objective of the Kepler Mission is to explore the structure and diversity of planetary systems. This is achieved by surveying a large sample of stars to:
+
+Determine the percentage of terrestrial and larger planets that are in or near the habitable zone of a wide variety of stars
+Determine the distribution of sizes and shapes of the orbits of these planets
+Estimate how many planets there are in multiple-star systems
+Determine the variety of orbit sizes and planet reflectivities, sizes, masses and densities of short-period giant planets
+Identify additional members of each discovered planetary system using other techniques
+Determine the properties of those stars that harbor planetary systems.
+ 
+The Transit Method of Detecting Extrasolar Planets
+When a planet passes in front of a star as viewed from Earth, the event is called a “transit”. On Earth, we can observe an occasional Venus or Mercury transit. These events are seen as a small black dot creeping across the Sun—Venus or Mercury blocks sunlight as the planet moves between the Sun and us. Kepler finds planets by looking for tiny dips in the brightness of a star when a planet crosses in front of it—we say the planet transits the star.
+
+Once detected, the planet's orbital size can be calculated from the period (how long it takes the planet to orbit once around the star) and the mass of the star using Kepler's Third Law of planetary motion. The size of the planet is found from the depth of the transit (how much the brightness of the star drops) and the size of the star. From the orbital size and the temperature of the star, the planet's characteristic temperature can be calculated. From this the question of whether or not the planet is habitable (not necessarily inhabited) can be answered.
+
+Target Field of View
+Since transits only last a fraction of a day, all the stars must be monitored continuously, that is, their brightnesses must be measured at least once every few hours. The ability to continuously view the stars being monitored dictates that the field of view (FOV) must never be blocked at any time during the year. Therefore, to avoid the Sun the FOV must be out of the ecliptic plane. The secondary requirement is that the FOV have the largest possible number of stars. This leads to the selection of a region in the Cygnus and Lyra constellations of our Galaxy as shown.
+
+Learn more about the history of the mission from the account of Kepler visionary and principal investigator, William Borucki.
+
+ 
+Kepler's second mission: K2
+K2 mission search fields
+The loss of a second of the four reaction wheels on board the Kepler spacecraft in May 2013 brought an end to Kepler's four-year science mission to continuously monitor more than 150,000 stars to search for transiting exoplanets. Developed over the months following this failure, the K2 mission represents a new concept for spacecraft operations that enables continued scientific observations with the Kepler space telescope. K2 became fully operational in May 2014 and is expected to continue operating until 2017 or 2018.
+
+Using the transit method to detect brightness changes, the K2 mission entails a series of sequential observing "Campaigns" of fields distributed around the ecliptic plane and offers a photometric precision approaching that of the original Kepler mission. Operating in the ecliptic plane minimizes the torque exerted on the spacecraft by solar wind pressure, reducing pointing drift to the point where spacecraft attitude can effectively be controlled through a combination of thrusters and the two remaining reaction wheels. Each campaign is therefore limited by sun angle constraints to a duration of approximately 80 days.
+
+Scientific motivations
+
+K2 is a community-driven mission. All K2 targets are proposed by the community through the Guest Observer program. The scientific potential spans a wide range of astrophysics. It is anticipated that K2 will:
+
+Provide a yield of hot planets around bright stars for follow-up transit spectroscopy to facilitate rapid advances in the characterization of exoplanet atmospheres.
+Provide a yield of small planets around bright, small stars to facilitate the most precise follow-up measurements to date of masses, densities and compositions.
+Identify locations and characteristics of potentially-habitable planets around bright M-dwarfs in the solar neighborhood.
+Determine if hot gas giants exist around young stars, or whether they migrate to small orbits at a later epoch by tidal or other interactions.
+Determine the relationship between stellar structure, rotation and activity within stellar associations over a range of ages and metallicity.
+Identify the progenitors of Type Ia supernovae from photometric structure in the rise to outburst maximum.
+Discover and characterize binary stars within open clusters and stellar associations.
+Characterize internal stellar structure and fundamental properties of stars using the tools of asteroseismology.
+Provide a large, regular cadence survey of AGN activity in the optical bandpass.
+Participate in multi-mission, multi-band monitoring campaigns of ecliptic targets along with other space-based hardware or ground-based telescopes.

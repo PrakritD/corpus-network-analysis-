@@ -1,0 +1,48 @@
+A controversial new theory suggests that supermassive black holes that lurk at the heart of most large galaxies could be the source of dark energy, the mysterious force driving the accelerating expansion of the universe.
+
+The suggested link – referred to as a “cosmological coupling” – was born from observations of black holes at the heart of distant galaxies that seem to have grown more rapidly than simply accreting mass or merging with other black holes would allow.
+
+Investigating this further, the team, including lead author Duncan Farrah from the University of Hawai‘i at Mānoa, discovered that the strength of the coupling means the growth of the black holes matched the accelerating expansion of the universe.
+
+“There is no agreement on which model for dark energy is most likely to be correct, but the simplest model for dark energy is a ‘cosmological constant’. In this model, the whole universe is pervaded by uniform and constant energy density,” Farrah tells Physics World. “This doesn’t sound so mysterious, but the energy density must stay constant even as the universe expands. There’s no object known that behaves in the required way. Because of this, it is thought by some to be a property of the vacuum itself.”
+
+Most models of black holes suggest that at their heart is a singularity, a point at which mass is squeezed into an infinitesimally small point and thus becomes infinitely dense. The new cosmological coupling replaces this singularity with vacuum energy, proposed as the source of dark energy.
+
+The researchers detail the theory in two papers, published in The Astrophysical Journal and The Astrophysical Journal Letters, with both laying out different aspects of the cosmological connection and providing the first “astrophysical explanation of dark energy”.
+
+Evidence for an astrophysical dark-energy model
+In the first paper, the team looked at black holes in the centres of “red and dead” elliptical galaxies that are currently inactive.
+
+“Because these galaxies are not expected to do much, their central black holes are not expected to grow much with time,” Farrah explains. “We found that, after accounting for all possible ‘normal’ channels of black-hole growth, these black holes still show a large increase in mass between about seven billion years ago and today – nearly a factor of 10 in mass. This is surprising, and not that easy to explain.”
+
+In their second paper, the team attempted to discover whether this unexpected black-hole mass growth could be the result of the expansion of the universe via cosmological coupling alone.
+
+“Our second paper shows that this rate of mass increase is consistent with the mass of the black holes increasing in sync with the volume of the universe,” Farrah says. “That is, if the volume of the universe doubles, so does the mass of the black holes.”
+
+Farrah explains that if the result is correct, then if the volume of the universe doubles, the mass of a given black hole will double, but the number of black holes per unit volume will still halve due to the fact that black holes are specific objects.
+
+“Putting those two things together, then the mass density of black holes will stay constant as the universe expands. This is exactly the behaviour expected of the ‘something’ that gives rise to accelerating expansion,” Farrah says. “Since no other object exhibits this behaviour, it argues that black holes are that ‘something’. So dark energy does not need to be a property of the vacuum itself, and it does not need to be uniform. It can reside within black holes, and be produced when large stars collapse in death, something that has been predicted since the mid-sixties.”
+
+One of the key appeals of the team’s cosmological coupling theory is that while some dark-energy models require additions to be made to our models of the universe, all the elements needed for this model are already known.
+
+“It provides a source for dark energy from something we already know exists, namely black holes. There is no need for any new type of object or new particle,” says Farrah.
+
+A controversial coupling
+The new theory hasn’t passed without controversy in physics circles, with many researchers unwilling to accept this cosmological coupling just yet.
+
+“I can spot things that are troubling,” Universidad ECCI cosmologist Luz Ángela García tells Physics World. “Saying that their observation sets evidence for black holes being made out of dark energy seems like a long shot, in particular, because we cannot perform measurements ‘inside’ the black hole.”
+
+García is also troubled by the fact that by linking dark energy to black holes, the team’s theory connects this force to the life cycle of stars, describing it as “very risky”. This is because when scientists consider the energy–matter content of the universe, black holes and thus dark energy in this model have already been accounted for in the 5% “ordinary matter” proportion of the energy–matter content of the universe.
+
+Finally, García notes that the timeline of the universe leaves a gap of two billion years that the team’s theory struggles to fill.
+
+“The peak of the number of black holes and quasars coincides with the peak of the star formation history approximately 10 billion years ago, and after that there’s a rapid decline in the number of these massive objects,” she explains. “On the other hand, the kickstart of the dark-energy domination occurs more or less eight billion years ago.”
+
+So if black holes are the source of dark energy, García asks, why does it take dark energy two billion years to dominate other forms of matter and energy?
+
+“Although we can’t rule out the idea completely, it seems to me it is very unlikely that black holes are the source of dark energy,” she concludes.
+
+Farrah himself concurs that the mystery of dark energy is far from solved, acknowledging that while the two papers provide evidence of an astrophysical source for dark energy, their argument needs much more scrutiny.
+
+“Dark energy remains a deeply mysterious phenomenon,” Farrah concludes. “I would say our papers raise the possibility of black holes as a source for dark energy and provide an ‘interesting hypothesis’, but at present, no more than that.”
+
